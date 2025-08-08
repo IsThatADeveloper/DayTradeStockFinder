@@ -1,5 +1,5 @@
 import React from 'react';
-import StockDashboard from './components/StockDashboard/StockDashboard/StockDashboard';  // Simple import
+import StockDashboard from './components/StockDashboard';  // Simple import
 import './App.css';
 
 function App() {
